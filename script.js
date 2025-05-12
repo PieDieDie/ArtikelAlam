@@ -13,10 +13,10 @@ document.addEventListener("DOMContentLoaded", () => {
   toggleMusicBtn.addEventListener("click", () => {
     if (music.paused) {
       music.play();
-      toggleMusicBtn.textContent = "Pause Music";
+      toggleMusicBtn.textContent = "MAMPUS KONTOL";
     } else {
       music.pause();
-      toggleMusicBtn.textContent = "Play Music";
+      toggleMusicBtn.textContent = "WKWK PANIK";
     }
   });
 });
